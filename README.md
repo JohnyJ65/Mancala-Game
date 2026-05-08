@@ -4,8 +4,6 @@ This is a command‑line implementation of the classic board game Mancala. The g
 # Features
 Fully interactive two‑player Mancala game
 
-Correct sowing behavior, skipping the opponent's store
-
 Capture rule implemented when landing in an empty pocket on your own side
 
 Extra turn when landing in your own store
